@@ -26,7 +26,5 @@ class TiebaSpider:
 
 
 
-        # 保存
-
 
 
